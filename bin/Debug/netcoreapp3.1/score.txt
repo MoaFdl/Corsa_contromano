@@ -1,0 +1,3 @@
+moa 3 RECORD RECORD
+moa 3 RECORD
+moa 0

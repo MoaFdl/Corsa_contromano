@@ -1,0 +1,50 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="difficoltà\**" />
+    <EmbeddedResource Remove="difficoltà\**" />
+    <None Remove="difficoltà\**" />
+    <Page Remove="difficoltà\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="b1.jpg" />
+    <None Remove="b2.png" />
+    <None Remove="b3.png" />
+    <None Remove="b4.png" />
+    <None Remove="fondi\s2.png" />
+    <None Remove="impostazioni\a1.png" />
+    <None Remove="impostazioni\a2.png" />
+    <None Remove="impostazioni\A3.png" />
+    <None Remove="impostazioni\az.png" />
+    <None Remove="impostazioni\c1.png" />
+    <None Remove="scelte\b1.jpg" />
+    <None Remove="scelte\b2.png" />
+    <None Remove="scelte\b3.png" />
+    <None Remove="scelte\b4.png" />
+    <None Remove="scelte\b5.jpg" />
+    <None Remove="scelte\b6.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="fondi\s2.png" />
+    <Resource Include="impostazioni\a1.png" />
+    <Resource Include="impostazioni\a2.png" />
+    <Resource Include="impostazioni\A3.png" />
+    <Resource Include="impostazioni\az.png" />
+    <Resource Include="impostazioni\c1.png" />
+    <Resource Include="scelte\b1.jpg" />
+    <Resource Include="scelte\b2.png" />
+    <Resource Include="scelte\b3.png" />
+    <Resource Include="scelte\b4.png" />
+    <Resource Include="scelte\b5.jpg" />
+    <Resource Include="scelte\b6.jpg" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Corsa_contromano", "Corsa_contromano.csproj", "{35EEA971-0F8D-4B45-8802-B7A60AB43DEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35EEA971-0F8D-4B45-8802-B7A60AB43DEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35EEA971-0F8D-4B45-8802-B7A60AB43DEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35EEA971-0F8D-4B45-8802-B7A60AB43DEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35EEA971-0F8D-4B45-8802-B7A60AB43DEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18C239B4-0C48-4721-960A-3C8CC21C0D8D}
+	EndGlobalSection
+EndGlobal

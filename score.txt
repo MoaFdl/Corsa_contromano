@@ -1,0 +1,11 @@
+moa 10 RECORD
+andre 7
+moa 4 
+aaa 3
+ 2
+ 1
+moa 1
+aa 1
+ 1
+ 0
+ 0

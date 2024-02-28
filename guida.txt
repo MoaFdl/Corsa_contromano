@@ -1,0 +1,12 @@
+Usa:
+ ↓↑ per muoverti
+ R per rigiocare
+ E per tornare al menu
+ C per cambiare Skin
+
+
+-il gioco consiste nel evitare le macchine
+-inserisci il tuo nome nell'area bianca e poi premi START
+-se vuoi visualizzare il punteggi premi PUNTEGGI
+-ogni volta che si ottengono 2 punti la velocità aumenta fino ad arribvare a 20 in cui la velocità rimarra costante
+attento ai bordi della pista!
